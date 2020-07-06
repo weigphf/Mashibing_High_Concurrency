@@ -1,3 +1,4 @@
+/*
 package com.mark.concurrent01;
 
 import org.junit.After;
@@ -6,9 +7,11 @@ import org.junit.Test;
 import com.mark.concurrent01.T;
 import junit.framework.TestCase;
 
+*/
 /**
  * Unit test for simple App.
- */
+ *//*
+
 public class TTest extends TestCase {
   
   @Before
@@ -24,3 +27,4 @@ public class TTest extends TestCase {
     new Thread(() -> t.m(), "t2").start();
   }
 }
+*/
